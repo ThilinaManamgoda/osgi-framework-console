@@ -4,4 +4,4 @@ This is Eclipse Equinox OSGI Standalone runtime. Standalone mode requires librar
 
 How to:
 
-Run the command:  osgi-runtime-console/start.sh
+Run the command from the directory osgi-runtime-console: ./start.sh
